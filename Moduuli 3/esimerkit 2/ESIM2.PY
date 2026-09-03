@@ -20,3 +20,5 @@ print (luku1 % luku2)
 
 #potenssiin korotus
 print (luku1**luku2)
+
+#tämä on testi
