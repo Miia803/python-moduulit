@@ -1,0 +1,3 @@
+nimi = "Miia"
+
+print(nimi)
