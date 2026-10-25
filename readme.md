@@ -18,5 +18,22 @@ Tein ekan tehtävän.
 3 tehtävä tehty, mutta en saa herjaamaan korkeasta hemoglubiiniarvosta miehellä enkä naisella. Meni ajatus ihan jutturaan. 
 4 tehtävä tehty
 
+# Moduuli 4 
 
+Tehtävät myöhästyivät palautuksesta
+
+# Moduuli 5 
+
+Tehtävät myöhästyivät palautuksesta
+
+# Moduuli 6 kertaustehtävät 19.10.
+
+1 tehtävä tehty
+2 tehtävä tehty
+3 tehtävä tehty
+4 tehtävä tehty
+5 tehtävä tehty
+6 tehtävä tehty
+7 tehvävä tehty
+9 tehtävä tehty
 
